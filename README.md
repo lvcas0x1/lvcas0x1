@@ -2,6 +2,10 @@
 
 Small, focused open-source tools for macOS.
 
+About 90% of the features in everyday software are ones you never need.
+These tools focus on the bare minimum that everyday tasks actually require.
+Tested on the latest macOS only.
+
 ## Projects
 
 ### Developer tools
