@@ -15,7 +15,7 @@ Small, focused open-source tools for macOS.
 | Project | Description | Status |
 |---|---|---|
 | [**Snip**](https://github.com/lvcas0x1/snip) | Snip the screen, annotate the snip, and pin it on screen. | [Download](https://github.com/lvcas0x1/snip/releases/latest) |
-| [**Recorder**](https://github.com/lvcas0x1/recoder) | Record the full screen, a window, or an area to MP4, with live annotation. | [Download](https://github.com/lvcas0x1/recoder/releases/latest) |
+| [**Recorder**](https://github.com/lvcas0x1/recorder) | Record the full screen, a window, or an area to MP4, with live annotation. | [Download](https://github.com/lvcas0x1/recorder/releases/latest) |
 | [**Downloader**](https://github.com/lvcas0x1/downloader) | Paste a URL, preview it, and download media with a bundled yt-dlp and ffmpeg. | [Download](https://github.com/lvcas0x1/downloader/releases/latest) |
 
 <!--
